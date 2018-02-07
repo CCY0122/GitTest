@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onResume() {
         super.onResume();
         String m = "主分支修改内容-";
+        String mm="主分支第二次修改内容";
     }
 
 }
