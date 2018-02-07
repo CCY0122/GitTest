@@ -25,5 +25,6 @@ public class MainActivity extends AppCompatActivity {
         super.onRestart();
         String k ="分支1内容修改";
         String kk ="分支1第二次修改内容";
+        String kkk ="分支1第3次修改内容1";
     }
 }
