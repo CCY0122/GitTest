@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
     int k;
     long ks;
     String modifyInGithub;
+    String bbb="分支1独有内容";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
