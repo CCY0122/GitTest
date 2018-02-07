@@ -10,6 +10,7 @@ public class MainActivity extends AppCompatActivity {
     String czzzmmqm;
     String dooo;
     String asasd;
+    String github;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
