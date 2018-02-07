@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         String b1 = "分支1";
         String b2="asd";
+        String b3 = "asdasd";
     }
 
     @Override
