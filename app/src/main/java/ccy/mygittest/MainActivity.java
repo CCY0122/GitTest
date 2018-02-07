@@ -17,6 +17,13 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        String b1 = "分支1";
+    }
+
+    @Override
+    protected void onRestart() {
+        super.onRestart();
+        String k ="分支1内容修改";
     }
 
     @Override
