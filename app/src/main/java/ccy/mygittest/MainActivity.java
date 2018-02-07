@@ -10,7 +10,7 @@ public class MainActivity extends AppCompatActivity {
     int asdasdasd;
     int p;
     int k;
-    long ks;
+    long ks_b2;
     String modifyInGithub;
 
     @Override
