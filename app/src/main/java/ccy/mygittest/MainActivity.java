@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
     int p;
     int k;
     long ks;
+    String modifyInGithub;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
