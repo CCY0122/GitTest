@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    String abaa;
+    String abaamkl;
     String b;
     int asdasdasd;
     int p;
