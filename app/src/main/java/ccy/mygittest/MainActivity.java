@@ -9,6 +9,7 @@ public class MainActivity extends AppCompatActivity {
     String b;
     int asdasdasd;
     int p;
+    int k;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
