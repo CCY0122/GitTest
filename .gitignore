@@ -7,3 +7,11 @@
 /build
 /captures
 .externalNativeBuild
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle files
+.gradle/
+build/
