@@ -7,8 +7,9 @@ public class MainActivity extends AppCompatActivity {
 
     String a;
     String b;
-    String cmmm;
+    String czzzmmqm;
     String dooo;
+    String asasd;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
