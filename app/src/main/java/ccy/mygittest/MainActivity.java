@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("ccy", "test log out put to adb");
         Toast.makeText(this, "this us macbranch1 modified", Toast.LENGTH_LONG).show();
         //modified in origin
+        //222
     }
 
     @Override
