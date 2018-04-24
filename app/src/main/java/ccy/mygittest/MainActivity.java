@@ -13,14 +13,14 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.d("ccy", "test log out put to adb");
-        Toast.makeText(this, "test test", Toast.LENGTH_LONG).show();
+        Toast.makeText(this, "this us macbranch1 modified", Toast.LENGTH_LONG).show();
 
     }
 
     @Override
     protected void onRestart() {
         super.onRestart();
-
+        //this is macbrance1 modified;
     }
 
     @Override
