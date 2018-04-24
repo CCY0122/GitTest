@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.d("ccy", "test log out put to adb");
         Toast.makeText(this, "this us macbranch1 modified", Toast.LENGTH_LONG).show();
-
+        //modified in origin
     }
 
     @Override
