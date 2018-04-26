@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onResume() {
         super.onResume();
         //this is master modified;
-
+        //this is modified in b2;
     }
 
 }
