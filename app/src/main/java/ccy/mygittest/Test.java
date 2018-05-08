@@ -7,6 +7,6 @@ package ccy.mygittest;
 public class Test {
     //this class created by master
     public void empty(){
-
+        //ccy2
     }
 }
