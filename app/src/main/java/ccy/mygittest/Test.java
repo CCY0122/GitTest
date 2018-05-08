@@ -5,8 +5,8 @@ package ccy.mygittest;
  */
 
 public class Test {
-    //this class created by master
+    //this class created by master,modified by ccy1
     public void empty(){
-
+        //modified by ccy1
     }
 }
