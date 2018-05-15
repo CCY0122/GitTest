@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "this us macbranch1 modified", Toast.LENGTH_LONG).show();
         //modified in origin
         //21122
+        //add some but not commit
     }
 
     @Override
@@ -31,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
         //this is master modified;
         //this is modified in b2;、
         //-1
+        //qqqq
     }
 
 }
