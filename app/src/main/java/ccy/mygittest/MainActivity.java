@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onRestart() {
         super.onRestart();
-        //this is macbrance1 modified;
+        //thissss is macbrance1 modsssified;
         //
     }
 
@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         //this is master modified;
         //this is modified in b2;、
         //-1
-        //qqqq
+        //qqqasdasdq
     }
 
 }
