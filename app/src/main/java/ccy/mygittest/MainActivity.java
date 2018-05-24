@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onRestart() {
         super.onRestart();
-        //this is macbrance1 modif[q branch modified]bbbbbied;
+        //this is mac【啦啦啦】brance1 modif[q branch modified]bbbbbied;
         //
     }
 
